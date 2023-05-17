@@ -1,10 +1,14 @@
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
+    "name": "ViewRelationships",
+    "description": "A plugin who tell you which friends and blocked users are on a same discord server as you imagine by https://github.com/wingio/plugins",
     "authors": [
         {
-            "name": "You!",
-            "id": "YOUR_ID_HERE"
+            "name": "UwU",
+            "id": "691413039156690994"
+        },
+        {
+            "name":"bwbl",
+            "id":"1051578679593009212"
         }
     ],
     "main": "src/index.ts",
